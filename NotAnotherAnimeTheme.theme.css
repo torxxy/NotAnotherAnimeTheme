@@ -36,12 +36,12 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://i.imgur.com/TycGXqz.mp4);
+  --home-icon-image: url(https://i.imgur.com/ID5qeN6.jpg);
 
   /*
     Change your friends icon image position
   */
-  --home-icon-image-position: center center;
+  --home-icon-image-position: center top;
 
   /*
     Change your friends icon image zoom
